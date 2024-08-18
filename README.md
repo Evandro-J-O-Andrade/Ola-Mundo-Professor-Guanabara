@@ -1,2 +1,2 @@
-# Ola Mundo Professor Guanabara
- Primeiro repositorio do curso de Gite GitHub 
+# Olá, Mundo! Professor Guanabara
+ Primeiro repositorio feito com video em curso com o professor Guanabara!
